@@ -1,0 +1,54 @@
+# Basic gitignore file for this repository
+# More specific ignore files should be placed in subdirectories
+
+# Common Files to ignore
+*.swp
+*.log
+*.iml
+*.iws
+.idea/
+*~
+.fuse_hidden*
+.Trash-*
+.DS_Store
+._*
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.orig
+*.rej
+
+# Vim
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
+# JVM files
+*.class
+hs_err_pid*
+replay_pid*
+*.jar
+*.war
+*.nar
+*.ear
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
