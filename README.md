@@ -3,6 +3,12 @@
 This repository contains the code and other related documents for creating the
 Gemini Search Engine **WhichFire**.
 
+## Blog Posts
+
+The following blog posts detail the development process of this application:
+
+1. [Creating a Gemini Search Engine](https://lyndon.codes/2023/10/10/creating-a-gemini-search-engine/)
+
 ## Conventions
 
 This project uses the following conventions:
